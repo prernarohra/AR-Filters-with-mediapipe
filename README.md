@@ -1,1 +1,1 @@
-# AR Filters With Mediapipe :dog::cat:
+# AR Filters with Mediapipe :dog::cat:
