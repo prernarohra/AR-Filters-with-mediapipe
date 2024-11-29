@@ -7,3 +7,7 @@ Create and customize augmented reality (AR) filters using the powerful and effic
 - Real-time facial tracking with MediaPipe Face Mesh.
 - Customizable AR filters, including effects like face masks, glasses, and more.
 - Open-source and developer-friendly codebase for creative experimentation.
+
+## 🛠️ Tools and Technologies
+
+
