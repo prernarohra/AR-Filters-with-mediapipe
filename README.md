@@ -15,3 +15,7 @@ Create and customize augmented reality (AR) filters using the powerful and effic
 - Python: To integrate and process the entire workflow.
 
 ## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
