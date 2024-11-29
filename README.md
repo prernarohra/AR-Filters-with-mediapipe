@@ -10,4 +10,7 @@ Create and customize augmented reality (AR) filters using the powerful and effic
 
 ## 🛠️ Tools and Technologies
 
+- MediaPipe: For real-time facial landmark detection and tracking.
+- OpenCV: For image processing and visualization.
+- Python: To integrate and process the entire workflow.
 
