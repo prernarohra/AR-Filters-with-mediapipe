@@ -22,3 +22,15 @@ Ensure you have the following installed:
 
 - Python 3.7+
 - Required libraries in requirements.txt (install via pip)
+
+1. Clone this repository:
+
+```bash
+# Clone the repository
+git clone https://github.com/prernarohra/Email-Sentiment-Analysis.git
+
+# Navigate to the project directory
+cd Email-Sentiment-Analysis
+```
+
+
