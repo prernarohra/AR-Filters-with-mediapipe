@@ -27,10 +27,10 @@ Ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/prernarohra/Email-Sentiment-Analysis.git
+git clone https://github.com/prernarohra/AR-Filters-with-mediapipe.git
 
 # Navigate to the project directory
-cd Email-Sentiment-Analysis
+cd AR-Filters-with-mediapipe
 ```
 
 
