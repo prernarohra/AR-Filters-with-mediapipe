@@ -19,3 +19,6 @@ Create and customize augmented reality (AR) filters using the powerful and effic
 ### Prerequisites
 
 Ensure you have the following installed:
+
+- Python 3.7+
+- Required libraries in requirements.txt 
