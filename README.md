@@ -27,6 +27,8 @@ Ensure you have the following installed:
 pip install -r requirements.txt
 ```
 
+## Installation
+
 1. Clone this repository:
 
 ```bash
