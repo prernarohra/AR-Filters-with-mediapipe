@@ -38,5 +38,7 @@ git clone https://github.com/prernarohra/AR-Filters-with-mediapipe.git
 # Navigate to the project directory
 cd AR-Filters-with-mediapipe
 ```
+2. Run the application:
+
 
 
