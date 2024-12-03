@@ -23,6 +23,10 @@ Ensure you have the following installed:
 - Python 3.7+
 - Required libraries in requirements.txt (install via pip)
 
+```bash
+pip install -r requirements.txt
+```
+
 1. Clone this repository:
 
 ```bash
