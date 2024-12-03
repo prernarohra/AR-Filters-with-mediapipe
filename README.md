@@ -40,5 +40,7 @@ cd AR-Filters-with-mediapipe
 ```
 2. Run the application:
 
-
+```bash
+python apply_filter.py
+```
 
