@@ -47,6 +47,11 @@ python apply_filter.py
 ## 📂 Project Structure
 
 ```bash
-python apply_filter.py
+ar-filters-mediapipe/  
+├── filters/                # AR filter designs and implementations  
+├── utils/                  # Utility functions and helpers  
+├── main.py                 # Main script to run the application  
+├── requirements.txt        # Dependencies  
+└── README.md               # Documentation  
 ```
 
