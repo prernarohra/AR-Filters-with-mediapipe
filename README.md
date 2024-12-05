@@ -49,10 +49,10 @@ python apply_filter.py
 ```bash
 AR-Filters-with-mediapipe/  
 ├── filters/                # AR filter designs and implementations  
-├── faceBlendCommon.py      # Utility function
+├── faceBlendCommon.py      # Utility file
 ├── apply_filter.py         # Main script to run the application 
-├── create_points_labels.py
-├── points_labels.txt               
+├── create_points_labels.py # Point creating function
+├── points_labels.txt       # Points/Labels
 ├── requirements.txt        # Dependencies  
 └── README.md               # Documentation  
 ```
