@@ -47,10 +47,12 @@ python apply_filter.py
 ## 📂 Project Structure
 
 ```bash
-ar-filters-mediapipe/  
+AR-Filters-with-mediapipe/  
 ├── filters/                # AR filter designs and implementations  
-├── utils/                  # Utility functions and helpers  
-├── main.py                 # Main script to run the application  
+├── faceBlendCommon.py      # Utility function
+├── apply_filter.py         # Main script to run the application 
+├── create_points_labels.py
+├── points_labels.txt               
 ├── requirements.txt        # Dependencies  
 └── README.md               # Documentation  
 ```
