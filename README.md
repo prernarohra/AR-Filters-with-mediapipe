@@ -27,7 +27,7 @@ Ensure you have the following installed:
 pip install -r requirements.txt
 ```
 
-## Installation
+## ⚙️ Installation
 
 1. Clone this repository:
 
