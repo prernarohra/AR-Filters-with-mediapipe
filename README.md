@@ -44,3 +44,9 @@ cd AR-Filters-with-mediapipe
 python apply_filter.py
 ```
 
+## 📂 Project Structure
+
+```bash
+python apply_filter.py
+```
+
