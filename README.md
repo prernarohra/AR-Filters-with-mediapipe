@@ -70,4 +70,4 @@ Contributions are welcome! If you have ideas for new filters or performance impr
 2. Create your feature branch: git checkout -b feature/NewFilter.
 3. Commit your changes: git commit -m 'Add NewFilter'.
 4. Push to the branch: git push origin feature/NewFilter.
-Open a pull request.
+5. Open a pull request.
