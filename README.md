@@ -61,3 +61,5 @@ AR-Filters-with-mediapipe/
 
 - Add more AR filters (e.g., animated masks, seasonal themes).
 - Enhance filter customization with GUI options.
+
+## 🤝 Contributing
