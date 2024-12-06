@@ -57,4 +57,7 @@ AR-Filters-with-mediapipe/
 └── README.md               # Documentation  
 ```
 
-🚧 Possible Enhancements
+## 🚧 Possible Enhancements
+
+- Add more AR filters (e.g., animated masks, seasonal themes).
+- Enhance filter customization with GUI options.
