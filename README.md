@@ -63,3 +63,11 @@ AR-Filters-with-mediapipe/
 - Enhance filter customization with GUI options.
 
 ## 🤝 Contributing
+
+Contributions are welcome! If you have ideas for new filters or performance improvements, feel free to:
+
+1. Fork the repo.
+2. Create your feature branch: git checkout -b feature/NewFilter.
+3. Commit your changes: git commit -m 'Add NewFilter'.
+4. Push to the branch: git push origin feature/NewFilter.
+Open a pull request.
