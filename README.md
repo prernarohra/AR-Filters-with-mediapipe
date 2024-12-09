@@ -66,6 +66,12 @@ AR-Filters-with-mediapipe/
 
 Contributions are welcome! If you have ideas for new filters or performance improvements, feel free to:
 
+## 📜 License
+
+This project is licensed under the MIT License.
+
+
+
 1. Fork the repo.
 2. Create your feature branch: git checkout -b feature/NewFilter.
 3. Commit your changes: git commit -m 'Add NewFilter'.
